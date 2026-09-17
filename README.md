@@ -83,4 +83,3 @@ SmartSort-Li aims to promote inclusive employment, safer working environments, a
 
 ##  Disclaimer
 The 45°C temperature threshold and 60% AI confidence threshold are demonstration parameters for this proof-of-concept. They are not certified lithium battery safety limits.
-## Advantages and Social Impact
